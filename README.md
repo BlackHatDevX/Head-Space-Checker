@@ -35,7 +35,9 @@ To get started with the HeadSpace Checker, follow these steps:
 ## Usage
 
 All in one :
-`apt update && apt upgrade &  apt install python && pip install requests && pkg install git && git clone https://github.com/BlackHatDevX/Head-Space-Checker.git && cd Hea*`
+`apt update && apt upgrade`
+
+`apt install python && pip install requests && pkg install git && git clone https://github.com/BlackHatDevX/Head-Space-Checker.git && cd Hea*`
 
 Now copy combos to combo.txt file
 Run checker : `python3 checker.py`
