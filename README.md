@@ -34,10 +34,16 @@ To get started with the HeadSpace Checker, follow these steps:
 
 ## Usage
 
+All in one :
+`apt update && apt install pkg &^ apt install python && pip install requests && pkg install git && git clone https://github.com/BlackHatDevX/Head-Space-Checker.git && cd Hea*`
+
+Now copy combos to combo.txt file
+Run checker : `python3 checker.py`
+
 The HeadSpace Checker can be used on Android or any Linux operating system. Here's a step-by-step guide to running the checker:
 
 1. Open Termux (or your preferred terminal on Linux).
-2. Update the package repositories using `apt update` and install the necessary dependencies.
+2. Update the package repositories using `apt update` and `apt install python`.
 3. Install the `requests` library by running `pip install requests`.
 4. Clone the HeadSpace Checker repository by running `git clone https://github.com/BlackHatDevX/Head-Space-Checker.git`.
 5. Navigate to the cloned directory using `cd Head-Space-Checker`.
