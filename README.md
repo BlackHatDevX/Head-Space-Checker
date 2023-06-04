@@ -65,4 +65,5 @@ For any inquiries or questions, you can reach out to the project developer:
 
 - JashGro's Portfolio: [bit.ly/jashgro](https://bit.ly/jashgro)
 - Telegram: [@developer_x](https://telegram.dog/developer_x)
+- Update Channel: [@bin_worldxd](https://telegram.dog/bin_worldxd)
 
