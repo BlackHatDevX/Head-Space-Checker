@@ -36,12 +36,11 @@ To get started with the HeadSpace Checker, follow these steps:
 
 All in one :
 
-Prepare Termux :`apt update && apt upgrade`
-Go to your downloads folder directory : `termux-setup-storage && cd storage/downloads`
+Prepare Termux :`apt update && apt upgrade`.
+Go to your downloads folder directory : `termux-setup-storage && cd storage/downloads`.
+Installation: `apt install python && pip install requests && pkg install git && git clone https://github.com/BlackHatDevX/Head-Space-Checker.git && cd Hea*`.
 
-`apt install python && pip install requests && pkg install git && git clone https://github.com/BlackHatDevX/Head-Space-Checker.git && cd Hea*`
-
-Now copy combos to combo.txt file inside your phone's downloads/Head-Space-Checker folder
+Now copy combos to combo.txt file inside your phone's downloads/Head-Space-Checker folder.
 Run checker : `python3 checker.py`
 
 The HeadSpace Checker can be used on Android or any Linux operating system. Here's a step-by-step guide to running the checker:
