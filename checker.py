@@ -1,6 +1,6 @@
 import requests
-print("HEADSPACE CHECKER BY JASHGRO AND Bin_WorldXD")
-print("Source Code : https://github.com/BlackHatDevX/Head-Space-Checker")
+print("HEADWAY CHECKER BY JASHGRO AND Bin_WorldXD")
+print("Source Code : https://github.com/BlackHatDevX/Head-Way-Checker")
 print("____________________________________________")
 print("Note:")
 print(" - Load combos in combo.txt file same checker directory")
