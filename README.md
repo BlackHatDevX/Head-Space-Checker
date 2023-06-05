@@ -5,7 +5,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/BlackHatDevX/Head-Way-Checker)
 ![GitHub license](https://img.shields.io/github/license/BlackHatDevX/Head-Way-Checker)
 
-HeadWay Checker is an open-source account checker developed by JashGro and Bin_WorldXD. It allows you to check the premium status of HeadSpace accounts. 
+HeadWay Checker is an open-source account checker developed by JashGro and Bin_WorldXD. It allows you to check the premium status of HeadWay accounts. 
 
 ## Table of Contents
 
