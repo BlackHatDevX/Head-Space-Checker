@@ -1,11 +1,11 @@
-# HeadSpace Premium Account Checker
+# HeadWay Premium Account Checker
 
-![GitHub stars](https://img.shields.io/github/stars/BlackHatDevX/Head-Space-Checker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/BlackHatDevX/Head-Space-Checker?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/BlackHatDevX/Head-Space-Checker)
-![GitHub license](https://img.shields.io/github/license/BlackHatDevX/Head-Space-Checker)
+![GitHub stars](https://img.shields.io/github/stars/BlackHatDevX/Head-Way-Checker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/BlackHatDevX/Head-Way-Checker?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/BlackHatDevX/Head-Way-Checker)
+![GitHub license](https://img.shields.io/github/license/BlackHatDevX/Head-Way-Checker)
 
-HeadSpace Checker is an open-source account checker developed by JashGro and Bin_WorldXD. It allows you to check the premium status of HeadSpace accounts. 
+HeadWay Checker is an open-source account checker developed by JashGro and Bin_WorldXD. It allows you to check the premium status of HeadSpace accounts. 
 
 ## Table of Contents
 
@@ -43,24 +43,24 @@ Prepare Termux :`apt update && apt upgrade`
 Go to your downloads folder directory : `termux-setup-storage && cd storage/downloads`
 
 
-Installation: `apt install python && pip install requests && apt install git && git clone https://github.com/BlackHatDevX/Head-Space-Checker.git && cd Head-Space-Checker`
+Installation: `apt install python && pip install requests && apt install git && git clone https://github.com/BlackHatDevX/Head-Way-Checker.git && cd Head-Way-Checker`
 
-Now copy combos to combo.txt file inside your phone's downloads/Head-Space-Checker folder.
+Now copy combos to combo.txt file inside your phone's downloads/Head-Way-Checker folder.
 
 
 Run checker : `python3 checker.py`
 
 ________________________________
-The HeadSpace Checker can be used on Android or any Linux operating system. Here's a step-by-step guide to running the checker:
+The HeadWay Checker can be used on Android or any Linux operating system. Here's a step-by-step guide to running the checker:
 
 1. Open Termux (or your preferred terminal on Linux).
 2. Update the package repositories using `apt update` and `apt install python`.
 3. Install the `requests` library by running `pip install requests`.
-4. Clone the HeadSpace Checker repository by running `git clone https://github.com/BlackHatDevX/Head-Space-Checker.git`.
-5. Navigate to the cloned directory using `cd Head-Space-Checker`.
+4. Clone the HeadSpace Checker repository by running `git clone https://github.com/BlackHatDevX/Head-Way-Checker.git`.
+5. Navigate to the cloned directory using `cd Head-Way-Checker`.
 6. Copy your account combos into the `combo.txt` file located in the same directory.
 7. Run the checker using `python3 checker.py`.
-8. Enjoy using the HeadSpace Checker!
+8. Enjoy using the HeadWay Checker!
 
 ## Contributing
 
@@ -74,7 +74,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## Disclaimer
 
-This HeadSpace Checker is intended for educational purposes only. The developer does not promote any illegal activities. Please use this checker responsibly and abide by the terms and conditions of the services you are checking.
+This HeadWay Checker is intended for educational purposes only. The developer does not promote any illegal activities. Please use this checker responsibly and abide by the terms and conditions of the services you are checking.
 
 ## Contact
 
